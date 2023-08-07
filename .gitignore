@@ -7,6 +7,7 @@
 *.dll
 *.so
 *.dylib
+advent-2021
 
 # Test binary, built with `go test -c`
 *.test
